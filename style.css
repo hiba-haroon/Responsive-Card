@@ -1,0 +1,102 @@
+body{
+     background-image: linear-gradient(white, rgb(194, 177, 243));
+     background-repeat: no-repeat;
+     height: 756px;
+}
+.container{
+      display: flex;
+      justify-content: center;
+      height: 530px;
+      gap: 30px;
+      
+}
+.div1{
+      background-color: white;
+      font-family: Arial, Helvetica, sans-serif;
+      border-radius: 5px;
+      margin-top: 150px;
+      width: 300px;
+      text-align: center;
+      font-size: 10px;
+}
+.div1 p{
+      font-family: Arial, Helvetica, sans-serif;
+      text-align: center;
+      color: grey;
+      font-size: 14px;
+}
+.div1 img{
+      margin-top: 10px;
+      width: 280px;
+      height: 170px;
+      border-radius: 10px;
+}
+.div2{
+      background-color: white;
+      font-family: Arial, Helvetica, sans-serif;
+      border-radius: 5px;
+      margin-top: 150px;
+      width: 300px;
+      text-align: center;
+      font-size: 10px;
+}
+.div2 p{
+      font-family: Arial, Helvetica, sans-serif;
+      text-align: center;
+      color: grey;
+      font-size: 14px;
+}
+.div2 img{
+      margin-top: 10px;
+      width: 280px;
+      height: 170px;
+      border-radius: 10px;
+}
+.div3{
+      background-color: white;
+      font-family: Arial, Helvetica, sans-serif;
+      border-radius: 5px;
+      margin-top: 150px;
+      width: 300px;
+      text-align: center;
+      font-size: 10px;
+}
+.div3 p{
+      font-family: Arial, Helvetica, sans-serif;
+      text-align: center;
+      color: grey;
+      font-size: 14px;
+}
+.div3 img{
+      margin-top: 10px;
+      height: 170px;
+      width: 280px;
+      border-radius: 10px;
+}
+.profile{
+      display: flex;
+}
+.profile img{
+      border-radius: 100%;
+      margin-left: 15px;
+      width: 55px;
+      height: 45px;
+}
+.profile h2{
+      line-height: 7px;
+      margin-left: 10px;
+}
+.profile p{
+      font-size: 13px;
+}
+button{
+      background-image: linear-gradient(to right ,rgb(119, 65, 151), rgb(61, 32, 165));
+      border: none;
+      color: white;
+      margin-left: 30px;
+      margin-top: 16px;
+      border-radius: 40px;
+      font-size: 11px;
+      width: 80px;
+      height: 30px;
+}
